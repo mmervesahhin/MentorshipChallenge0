@@ -34,7 +34,6 @@ public class ChallangeMain {
 			System.out.println("\n\nEnter a number to see its reverse (Enter 0 to stop):");
 			numStr=input.nextLine();
 		}
-		
 		System.out.println("\nProgram Stopped!");
 	}
 }
